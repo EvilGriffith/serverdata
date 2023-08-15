@@ -1,0 +1,130 @@
+[ 
+    {
+        "id": 1,
+        "title": "Мужская рубашка синего цвета",
+        "image": "https://i.pinimg.com/736x/9b/ab/43/9bab43ec8345cd9f6dd9bb77c3075e64.jpg",
+        "price": 2999,
+        "gender": "male",
+        "type":  "shirt"
+    },
+    {
+        "id": 2,
+        "title": "Мужская куртка",
+        "image": "https://i.pinimg.com/564x/27/d8/10/27d810736e3ede93fbaa72671ca9236a.jpg",
+        "price": 7999,
+        "gender": "male",
+        "type":  "jacket"
+    },
+    {
+        "id": 3,
+        "title": "Мужской свитер черный",
+        "image": "https://i.pinimg.com/564x/3e/1f/1b/3e1f1bf36d48e6c91c07e79ad691ca69.jpg",
+        "price": 1999,
+        "gender": "male",
+        "type":  "sweater"
+    },
+    {
+        "id": 4,
+        "title": "Мужская клетчатая рубашка",
+        "image": "https://i.pinimg.com/564x/a7/c4/bd/a7c4bd6c16a24630814d6ca62d6f4019.jpg",
+        "price": 2999,
+        "gender": "male",
+        "type":  "shirt"
+    },
+    {
+        "id": 5,
+        "title": "Мужской черный пиджак",
+        "image": "https://i.pinimg.com/564x/ad/20/bb/ad20bb704454ba5e87d828443ba9e4c2.jpg",
+        "price": 8999,
+        "gender": "male",
+        "type":  "coat"
+    },
+    {
+        "id": 6,
+        "title": "Мужские черные кросовки",
+        "image": "https://i.pinimg.com/564x/ad/20/bb/ad20bb704454ba5e87d828443ba9e4c2.jpg",
+        "price": 8999,
+        "gender": "male",
+        "type": "sneakers"  
+    },
+    {
+        "id": 7,
+        "title": "Мужские джинсы",
+        "image": "https://i.pinimg.com/564x/d4/be/df/d4bedf28dd80bf6b397514232c10b84c.jpg",
+        "price": 3999,
+        "gender": "male",
+        "type": "jeans"
+    },
+    {
+        "id": 8,
+        "title": "Мужская рубашка в полоску",
+        "image": "https://i.pinimg.com/564x/20/61/77/206177035f2d1676a12c9a263a25842a.jpg",
+        "price": 2999,
+        "gender": "male",
+        "type": "shirt"  
+    },
+    {
+        "id": 9,
+        "title": "Женские штаны",
+        "image": "https://i.pinimg.com/564x/30/9b/5f/309b5fc60615f84f116e84e7bb03ccc8.jpg",
+        "price": 4999,
+        "gender": "female",
+        "type": "pants"
+    },
+    {
+        "id": 10,
+        "title": "Женское худи",
+        "image": "https://i.pinimg.com/564x/00/41/d9/0041d9d44baeffa3389ee0536405c8e6.jpg",
+        "price": 3999,
+        "gender": "female",
+        "type": "hoodie"
+    },
+    {
+        "id": 11,
+        "title": "Женский свиттер",
+        "image": "https://i.pinimg.com/564x/ab/82/55/ab82552f612a901a6f6a825d85abf82b.jpg",
+        "price": 1999,
+        "gender": "female",
+        "type": "sweater"  
+    },
+    {
+        "id": 12,
+        "title": "Женская рубашка",
+        "image": "https://i.pinimg.com/564x/d1/0b/46/d10b46a23a6cc55912e24f6a2b3a523b.jpg",
+        "price": 2999,
+        "gender": "female",
+        "type": "shirt"
+    },
+    {
+        "id": 13,
+        "title": "Женские кросовки",
+        "image": "https://i.pinimg.com/564x/8b/cc/5e/8bcc5ec09447347751748dc4ec3ba103.jpg",
+        "price": 8999,
+        "gender": "female",
+        "type": "sneakers" 
+    },
+    {
+        "id": 14,
+        "title": "Женские штаны",
+        "image": "https://i.pinimg.com/564x/44/89/5f/44895f15d0268401227f40a780f5ac0e.jpg",
+        "price": 4999,
+        "gender": "female",
+        "type": "pants"  
+    },
+    {
+        "id": 15,
+        "title": "Женские шорты",
+        "image": "https://i.pinimg.com/564x/a3/18/c5/a318c5775334d9e03564e0b499fbcd8a.jpg",
+        "price": 1999,
+        "gender": "female",
+        "type": "shorts"  
+    },
+    {
+        "id": 16,
+        "title": "Женский рюкзак",
+        "image": "https://i.pinimg.com/564x/b5/c4/38/b5c43847d2eb4eedc0bdbc54a548d21c.jpg",
+        "price": 3999,
+        "gender": "female",
+        "type": "backpack" 
+    } 
+]
